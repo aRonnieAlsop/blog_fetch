@@ -4,7 +4,8 @@
   "description": "GraphQL is used in combo with SQL for a simple blog API. GraphQL server using Apollo Server.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
